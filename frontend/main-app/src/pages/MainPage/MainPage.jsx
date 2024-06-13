@@ -22,7 +22,7 @@ const MainPage = () => {
       {/* <Background> */}
       {/* <Carousel /> */}
       <Section ref={ref1} inView={inView1}>
-        <Image src='https://post-phinf.pstatic.net/MjAyMDEwMTJfMjE1/MDAxNjAyNDg4NDcxMjU0.tP5xJjijMM6f34AlMu9cNxJMoCtY0988OsBiP1Q2LlAg.tYlm1RnALI28XqQeLgDBws_3jxatRtGA-McadL3VDUYg.PNG/image.png?type=w1200' />
+        <Image src='https://image.ggumim.co.kr/image/f/600/80/furniture/20210217145508gHh5aowZ4V.jpg'/>
         <ContentsBox>
           <Title>작물진단 서비스</Title>
           <Contents>여러분의 작물을 진단하고</Contents>
